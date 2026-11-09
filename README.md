@@ -11,7 +11,7 @@ Construindo minha trajetória na conexão entre **código, dados e finanças**.
 
 <br/><br/>
 
-<img src="assets/finance-coder.gif" width="480" alt="Animação em pixel art: programador de óculos escuros alterna entre programar, acompanhar gráficos financeiros e beber café em um ambiente minimalista" />
+<img src="assets/finance-dev-cat.png" width="100%" alt="Banner horizontal em pixel art: desenvolvedor de óculos escuros, gráficos do mercado financeiro, café e um gato laranja tigrado em cenário escuro com grandes prédios pela janela" />
 
 **Python e SQL em foco. Mercado financeiro como direção. Café como companhia.**
 
