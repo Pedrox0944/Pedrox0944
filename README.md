@@ -6,9 +6,8 @@
 
 Construindo minha trajetória na conexão entre **código, dados e finanças**.
 
-<a href="https://www.linkedin.com/in/pedro-marcos-fernandes-costa-114a02306/"><img src="https://img.shields.io/badge/LinkedIn-Contato-0A66C2?style=for-the-badge" alt="Contato pelo LinkedIn" /></a>
-<a href="mailto:pedromarcos250406@gmail.com"><img src="https://img.shields.io/badge/Email-Vamos_conversar-12382F?style=for-the-badge" alt="Enviar email" /></a>
-<a href="https://github.com/Pedrox0944?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projetos-151B23?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus projetos" /></a>
+<a href="https://www.linkedin.com/in/pedro-marcos-fernandes-costa-114a02306/"><img src="assets/linkedin.svg" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:pedromarcos250406@gmail.com"><img src="assets/gmail.svg" height="30" alt="Gmail" /></a>
 
 <br/><br/>
 
@@ -128,7 +127,7 @@ Além da base técnica, trago experiência com **interpretação de indicadores,
 
 <div align="center">
 
-**Vamos conectar tecnologia e mercado financeiro?**
+**Dados · Software · Finanças**
 
 [LinkedIn](https://www.linkedin.com/in/pedro-marcos-fernandes-costa-114a02306/) · [pedromarcos250406@gmail.com](mailto:pedromarcos250406@gmail.com)
 
